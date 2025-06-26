@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: saekin <saekin@student.42istanbul.com.tr>  +#+  +:+       +#+        */
+/*   By: saekin <saekin@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/01 19:42:15 by saekin            #+#    #+#             */
-/*   Updated: 2025/06/11 12:35:56 by saekin           ###   ########.fr       */
+/*   Updated: 2025/06/26 14:07:37 by saekin           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "libft.h"
 
 size_t	ft_strlen(const char *str)
